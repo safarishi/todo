@@ -2,6 +2,6 @@
 
 ## list
 
-* http://momentjs.com/docs/#/get-set/
+* http://momentjs.com/docs/
 
     node moment
